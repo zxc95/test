@@ -1,0 +1,9 @@
+{
+  "kek": [
+    {
+      "n": 0,
+      "t": 0,
+      "p": ["https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe"]
+    }
+  ]
+}
